@@ -12,7 +12,10 @@ li {
 nav {
     padding-right: 100px;
     padding-left: 20px;
-    padding-bottom: 50px;
+    padding-bottom: 30px;
+    padding-top: 20px;
+    background-color: black;
+    margin-bottom: 30px;
 }
 
 .contentBlock {
@@ -20,7 +23,7 @@ nav {
     margin-left: 10px;
     margin-top: 20px;
     margin-bottom: 20px;
-    border: 3px solid black;
+    border: 3px solid gray;
     padding-left: 50px;
     padding-right: 50px;
     padding-top: 20px;
