@@ -29,3 +29,8 @@ nav {
     padding-top: 20px;
     padding-bottom: 20px;
 }
+
+.blog {
+    margin: auto;
+    width: 70%;
+}
